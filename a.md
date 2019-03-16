@@ -1,1 +1,1 @@
-[a](javAscript:alert(1))
+[a](ftp://example.com/)
