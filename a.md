@@ -1,1 +1,1 @@
-[a](https://example.com/)
+[a](javAscript:alert(1))
