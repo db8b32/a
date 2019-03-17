@@ -4,4 +4,4 @@
 
 <a href="hTtpz://example.com">aa</a><br>
 
-<ab>a</ab>
+<object data="mysvg.svg" type="image/svg+xml"></object>
