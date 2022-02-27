@@ -6,3 +6,4 @@
 
 <object data="mysvg.svg" type="image/svg+xml"></object>
 <div id="b"></div>
+
